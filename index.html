@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CSV to Table</title>
+  <title>Mortgage Rates</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 </head>
 <body>
   <div class="container">
-    <h1>CSV Table</h1>
+    <h1>Mortgage Rates</h1>
     <table id="csvTable" class="table table-striped table-bordered">
       <thead></thead>
       <tbody></tbody>
@@ -20,7 +20,7 @@
   <script>
     $(document).ready(function() {
       $.ajax({
-        url: './assets/test.csv',
+        url: './assets/latest.csv',
         dataType: 'text',
       }).done(function(data) {
         var parsedData = Papa.parse(data, { header: true });
