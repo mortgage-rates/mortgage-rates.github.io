@@ -1,101 +1,99 @@
 Timestamp,Provider,Term (Years),Insurability,Type,Rate
-2023-12-18T20:15:42.727745,BMO,3,uninsured,fixed,6.72
-2023-12-18T20:15:42.727752,BMO,5,uninsured,fixed,6.49
-2023-12-18T20:15:42.727754,BMO,5,insured,fixed,5.89
-2023-12-18T20:15:42.727756,BMO,5,uninsured,variable,7.0
-2023-12-18T20:15:48.046925,CIBC,5,uninsured,fixed,7.09
-2023-12-18T20:15:48.046938,CIBC,5,insured,fixed,7.09
-2023-12-18T20:15:48.046942,CIBC,5,uninsured,variable,7.20
-2023-12-18T20:15:48.046945,CIBC,5,insured,variable,7.20
-2023-12-18T20:15:47.513499,Canwise,2,insured,fixed,6.19
-2023-12-18T20:15:47.513504,Canwise,3,insured,fixed,5.59
-2023-12-18T20:15:47.513506,Canwise,5,insured,fixed,5.19
-2023-12-18T20:15:54.440127,Dominion Lending,1,insured,fixed,6.79
-2023-12-18T20:15:54.440133,Dominion Lending,2,insured,fixed,6.29
-2023-12-18T20:15:54.440136,Dominion Lending,3,insured,fixed,5.9
-2023-12-18T20:15:54.440139,Dominion Lending,4,insured,fixed,5.69
-2023-12-18T20:15:54.440141,Dominion Lending,5,insured,fixed,5.39
-2023-12-18T20:15:54.440145,Dominion Lending,5,insured,variable,6.3
-2023-12-18T20:15:56.577274,Duca,5,insured,fixed,5.64
-2023-12-18T20:16:00.437317,Equitable Bank,1,insured,fixed,7.44
-2023-12-18T20:16:00.437322,Equitable Bank,2,insured,fixed,7.04
-2023-12-18T20:16:00.437323,Equitable Bank,3,insured,fixed,6.69
-2023-12-18T20:16:00.437325,Equitable Bank,4,insured,fixed,6.44
-2023-12-18T20:16:00.437326,Equitable Bank,5,insured,fixed,5.14
-2023-12-18T20:16:00.437328,Equitable Bank,5,insured,variable,6.3
-2023-12-18T20:16:02.512378,First National Financial,1,insured,fixed,7.69
-2023-12-18T20:16:02.512396,First National Financial,1,uninsured,fixed,7.69
-2023-12-18T20:16:02.512382,First National Financial,2,insured,fixed,6.86
-2023-12-18T20:16:02.512398,First National Financial,2,uninsured,fixed,6.86
-2023-12-18T20:16:02.512384,First National Financial,3,insured,fixed,6.4
-2023-12-18T20:16:02.512399,First National Financial,3,uninsured,fixed,6.4
-2023-12-18T20:16:02.512385,First National Financial,4,insured,fixed,6.26
-2023-12-18T20:16:02.512401,First National Financial,4,uninsured,fixed,6.26
-2023-12-18T20:16:02.512387,First National Financial,5,insured,fixed,5.44
-2023-12-18T20:16:02.512402,First National Financial,5,uninsured,fixed,6.21
-2023-12-18T20:16:02.512408,First National Financial,5,insured,variable,6.3
-2023-12-18T20:16:02.512410,First National Financial,5,uninsured,variable,7.15
-2023-12-18T20:16:07.690271,HSBC,2,insured,fixed,6.19
-2023-12-18T20:16:07.690276,HSBC,2,uninsured,fixed,6.19
-2023-12-18T20:16:07.690283,HSBC,3,insured,fixed,5.99
-2023-12-18T20:16:07.690284,HSBC,3,uninsured,fixed,5.99
-2023-12-18T20:16:07.690286,HSBC,5,insured,fixed,5.79
-2023-12-18T20:16:07.690288,HSBC,5,uninsured,fixed,5.79
-2023-12-18T20:16:12.623417,MCAP,5,insured,fixed,5.19
-2023-12-18T20:16:17.472334,Meridian,5,uninsured,fixed,6.49
-2023-12-18T20:16:17.472339,Meridian,5,insured,fixed,5.74
-2023-12-18T20:16:20.885309,Motus Bank,5,insured,fixed,6.69
-2023-12-18T20:16:26.442066,National Bank,4,uninsured,fixed,6.49
-2023-12-18T20:16:26.442059,National Bank,5,uninsured,variable,7.0
-2023-12-18T20:16:26.442072,National Bank,5,uninsured,fixed,6.49
-2023-12-18T20:16:31.696204,Nesto,2,insured,fixed,6.04
-2023-12-18T20:16:31.696211,Nesto,3,insured,fixed,5.54
-2023-12-18T20:16:31.696214,Nesto,3,insured,variable,6.25
-2023-12-18T20:16:31.696222,Nesto,4,insured,fixed,5.39
-2023-12-18T20:16:31.696224,Nesto,5,insured,fixed,5.09
-2023-12-18T20:16:31.696226,Nesto,5,insured,variable,5.95
-2023-12-18T20:16:36.711971,Pegasus,1,insured,fixed,6.79
-2023-12-18T20:16:36.711976,Pegasus,2,insured,fixed,6.71
-2023-12-18T20:16:36.711978,Pegasus,3,insured,fixed,5.84
-2023-12-18T20:16:36.711979,Pegasus,4,insured,fixed,5.89
-2023-12-18T20:16:36.711981,Pegasus,5,insured,fixed,4.99
-2023-12-18T20:16:36.711983,Pegasus,5,insured,variable,6.2
-2023-12-18T20:16:38.664765,Peoples Trust,1,insured,fixed,7.04
-2023-12-18T20:16:38.664770,Peoples Trust,2,insured,fixed,6.64
-2023-12-18T20:16:38.664772,Peoples Trust,3,insured,fixed,5.64
-2023-12-18T20:16:38.664774,Peoples Trust,4,insured,fixed,5.44
-2023-12-18T20:16:38.664775,Peoples Trust,5,insured,fixed,5.44
-2023-12-18T20:16:41.251220,Pine,2,insured,fixed,6.24
-2023-12-18T20:16:41.251228,Pine,3,insured,fixed,5.29
-2023-12-18T20:16:41.251230,Pine,4,insured,fixed,5.04
-2023-12-18T20:16:41.251237,Pine,5,insured,fixed,5.09
-2023-12-18T20:16:48.526941,RBC,2,uninsured,fixed,7.09
-2023-12-18T20:16:48.526954,RBC,5,uninsured,fixed,6.49
-2023-12-18T20:16:48.526956,RBC,5,uninsured,variable,7.05
-2023-12-18T20:16:48.526959,RBC,5,insured,fixed,5.89
-2023-12-18T20:16:48.526961,RBC,5,insured,variable,6.75
-2023-12-18T20:16:51.394410,Rocket Mortgage,5,uninsured,variable,7.00
-2023-12-18T20:16:51.394415,Rocket Mortgage,5,uninsured,fixed,6.11
-2023-12-18T20:16:51.394418,Rocket Mortgage,5,insured,variable,6.25
-2023-12-18T20:16:51.394420,Rocket Mortgage,5,insured,fixed,5.44
-2023-12-18T20:16:58.232704,Strive,1,insured,fixed,7.44
-2023-12-18T20:16:58.232706,Strive,2,insured,fixed,6.64
-2023-12-18T20:16:58.232707,Strive,3,insured,fixed,5.69
-2023-12-18T20:16:58.232708,Strive,4,insured,fixed,5.54
-2023-12-18T20:16:58.232698,Strive,5,insured,fixed,5.44
-2023-12-18T20:16:58.232702,Strive,5,insured,variable,6.3
-2023-12-18T20:17:08.365050,TD,3,uninsured,fixed,6.73
-2023-12-18T20:17:08.365056,TD,5,uninsured,fixed,6.49
-2023-12-18T20:17:08.365059,TD,5,uninsured,fixed,5.84
-2023-12-18T20:17:08.365060,TD,5,insured,fixed,5.84
-2023-12-18T20:17:08.365067,TD,5,uninsured,variable,7.15
-2023-12-18T20:17:01.659288,Tangerine,2,uninsured,fixed,6.79
-2023-12-18T20:17:01.659290,Tangerine,3,uninsured,fixed,6.4
-2023-12-18T20:17:01.659282,Tangerine,5,uninsured,variable,7.1
-2023-12-18T20:17:01.659297,Tangerine,5,uninsured,fixed,6.14
-2023-12-18T20:17:13.455413,True North Mortgage,1,insured,fixed,4.99
-2023-12-18T20:17:13.455419,True North Mortgage,2,insured,fixed,5.99
-2023-12-18T20:17:13.455421,True North Mortgage,3,insured,fixed,5.39
-2023-12-18T20:17:13.455423,True North Mortgage,4,insured,fixed,5.34
-2023-12-18T20:17:13.455425,True North Mortgage,5,insured,fixed,4.99
-2023-12-18T20:17:13.455428,True North Mortgage,5,insured,variable,5.99
+2023-12-18T20:50:57.102305,BMO,3,uninsured,fixed,6.72
+2023-12-18T20:50:57.102313,BMO,5,uninsured,fixed,6.49
+2023-12-18T20:50:57.102316,BMO,5,insured,fixed,5.89
+2023-12-18T20:50:57.102319,BMO,5,uninsured,variable,7.0
+2023-12-18T20:51:03.072013,CIBC,5,uninsured,fixed,7.09
+2023-12-18T20:51:03.072027,CIBC,5,insured,fixed,7.09
+2023-12-18T20:51:03.072031,CIBC,5,uninsured,variable,7.20
+2023-12-18T20:51:03.072033,CIBC,5,insured,variable,7.20
+2023-12-18T20:51:02.657243,Canwise,2,insured,fixed,6.19
+2023-12-18T20:51:02.657250,Canwise,3,insured,fixed,5.59
+2023-12-18T20:51:02.657253,Canwise,5,insured,fixed,5.19
+2023-12-18T20:51:09.515702,Dominion Lending,1,insured,fixed,6.79
+2023-12-18T20:51:09.515710,Dominion Lending,2,insured,fixed,6.29
+2023-12-18T20:51:09.515714,Dominion Lending,3,insured,fixed,5.9
+2023-12-18T20:51:09.515717,Dominion Lending,4,insured,fixed,5.69
+2023-12-18T20:51:09.515720,Dominion Lending,5,insured,fixed,5.39
+2023-12-18T20:51:09.515726,Dominion Lending,5,insured,variable,6.3
+2023-12-18T20:51:15.753938,Duca,5,insured,fixed,5.64
+2023-12-18T20:51:20.659904,Equitable Bank,1,insured,fixed,7.44
+2023-12-18T20:51:20.659911,Equitable Bank,2,insured,fixed,7.04
+2023-12-18T20:51:20.659913,Equitable Bank,3,insured,fixed,6.69
+2023-12-18T20:51:20.659915,Equitable Bank,4,insured,fixed,6.44
+2023-12-18T20:51:20.659916,Equitable Bank,5,insured,fixed,5.14
+2023-12-18T20:51:20.659919,Equitable Bank,5,insured,variable,6.3
+2023-12-18T20:51:24.400594,First National Financial,1,insured,fixed,7.69
+2023-12-18T20:51:24.400617,First National Financial,1,uninsured,fixed,7.69
+2023-12-18T20:51:24.400600,First National Financial,2,insured,fixed,6.86
+2023-12-18T20:51:24.400620,First National Financial,2,uninsured,fixed,6.86
+2023-12-18T20:51:24.400602,First National Financial,3,insured,fixed,6.4
+2023-12-18T20:51:24.400621,First National Financial,3,uninsured,fixed,6.4
+2023-12-18T20:51:24.400604,First National Financial,4,insured,fixed,6.26
+2023-12-18T20:51:24.400623,First National Financial,4,uninsured,fixed,6.26
+2023-12-18T20:51:24.400606,First National Financial,5,insured,fixed,5.44
+2023-12-18T20:51:24.400624,First National Financial,5,uninsured,fixed,6.21
+2023-12-18T20:51:24.400630,First National Financial,5,insured,variable,6.3
+2023-12-18T20:51:24.400633,First National Financial,5,uninsured,variable,7.15
+2023-12-18T20:51:30.899297,HSBC,2,insured,fixed,6.19
+2023-12-18T20:51:30.899303,HSBC,2,uninsured,fixed,6.19
+2023-12-18T20:51:30.899311,HSBC,3,insured,fixed,5.99
+2023-12-18T20:51:30.899313,HSBC,3,uninsured,fixed,5.99
+2023-12-18T20:51:30.899315,HSBC,5,insured,fixed,5.79
+2023-12-18T20:51:30.899317,HSBC,5,uninsured,fixed,5.79
+2023-12-18T20:51:37.918106,MCAP,1,insured,fixed,7.44
+2023-12-18T20:51:37.918105,MCAP,2,insured,fixed,7.14
+2023-12-18T20:51:37.918103,MCAP,3,insured,fixed,5.64
+2023-12-18T20:51:37.918102,MCAP,4,insured,fixed,5.49
+2023-12-18T20:51:37.918098,MCAP,5,insured,fixed,5.19
+2023-12-18T20:51:49.441655,Motus Bank,5,insured,fixed,6.69
+2023-12-18T20:51:55.347198,National Bank,4,uninsured,fixed,6.49
+2023-12-18T20:51:55.347190,National Bank,5,uninsured,variable,7.0
+2023-12-18T20:51:55.347206,National Bank,5,uninsured,fixed,6.49
+2023-12-18T20:52:02.294894,Nesto,2,insured,fixed,6.04
+2023-12-18T20:52:02.294901,Nesto,3,insured,fixed,5.54
+2023-12-18T20:52:02.294905,Nesto,3,insured,variable,6.25
+2023-12-18T20:52:02.294914,Nesto,4,insured,fixed,5.39
+2023-12-18T20:52:02.294917,Nesto,5,insured,fixed,5.09
+2023-12-18T20:52:02.294920,Nesto,5,insured,variable,5.95
+2023-12-18T20:52:08.782656,Pegasus,1,insured,fixed,6.79
+2023-12-18T20:52:08.782662,Pegasus,2,insured,fixed,6.71
+2023-12-18T20:52:08.782664,Pegasus,3,insured,fixed,5.84
+2023-12-18T20:52:08.782682,Pegasus,4,insured,fixed,5.89
+2023-12-18T20:52:08.782683,Pegasus,5,insured,fixed,4.99
+2023-12-18T20:52:08.782686,Pegasus,5,insured,variable,6.2
+2023-12-18T20:52:11.414115,Peoples Trust,1,insured,fixed,7.04
+2023-12-18T20:52:11.414121,Peoples Trust,2,insured,fixed,6.64
+2023-12-18T20:52:11.414123,Peoples Trust,3,insured,fixed,5.64
+2023-12-18T20:52:11.414126,Peoples Trust,4,insured,fixed,5.44
+2023-12-18T20:52:11.414127,Peoples Trust,5,insured,fixed,5.44
+2023-12-18T20:52:14.527421,Pine,2,insured,fixed,6.24
+2023-12-18T20:52:14.527440,Pine,3,insured,fixed,5.29
+2023-12-18T20:52:14.527453,Pine,4,insured,fixed,5.04
+2023-12-18T20:52:14.527462,Pine,5,insured,fixed,5.09
+2023-12-18T20:52:22.832474,RBC,2,uninsured,fixed,7.09
+2023-12-18T20:52:22.832489,RBC,5,uninsured,fixed,6.49
+2023-12-18T20:52:22.832492,RBC,5,uninsured,variable,7.05
+2023-12-18T20:52:22.832496,RBC,5,insured,fixed,5.89
+2023-12-18T20:52:22.832498,RBC,5,insured,variable,6.75
+2023-12-18T20:52:27.970409,Rocket Mortgage,5,uninsured,variable,7.00
+2023-12-18T20:52:27.970415,Rocket Mortgage,5,uninsured,fixed,6.11
+2023-12-18T20:52:27.970417,Rocket Mortgage,5,insured,variable,6.25
+2023-12-18T20:52:27.970420,Rocket Mortgage,5,insured,fixed,5.44
+2023-12-18T20:52:38.109837,Strive,1,insured,fixed,7.44
+2023-12-18T20:52:38.109839,Strive,2,insured,fixed,6.64
+2023-12-18T20:52:38.109840,Strive,3,insured,fixed,5.69
+2023-12-18T20:52:38.109842,Strive,4,insured,fixed,5.54
+2023-12-18T20:52:38.109829,Strive,5,insured,fixed,5.44
+2023-12-18T20:52:38.109835,Strive,5,insured,variable,6.3
+2023-12-18T20:52:53.113101,TD,3,uninsured,fixed,6.73
+2023-12-18T20:52:53.113127,TD,5,uninsured,fixed,6.49
+2023-12-18T20:52:53.113129,TD,5,uninsured,fixed,5.84
+2023-12-18T20:52:53.113131,TD,5,insured,fixed,5.84
+2023-12-18T20:52:53.113139,TD,5,uninsured,variable,7.15
+2023-12-18T20:52:59.481210,True North Mortgage,1,insured,fixed,4.99
+2023-12-18T20:52:59.481217,True North Mortgage,2,insured,fixed,5.99
+2023-12-18T20:52:59.481220,True North Mortgage,3,insured,fixed,5.39
+2023-12-18T20:52:59.481223,True North Mortgage,4,insured,fixed,5.34
+2023-12-18T20:52:59.481225,True North Mortgage,5,insured,fixed,4.99
+2023-12-18T20:52:59.481228,True North Mortgage,5,insured,variable,5.99
