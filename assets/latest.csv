@@ -1,104 +1,98 @@
 Timestamp,Provider,Term (Years),Insurability,Type,Rate
-2024-02-09T14:13:33.780263,BMO,3,uninsured,fixed,5.85
-2024-02-09T14:13:33.780270,BMO,5,uninsured,fixed,5.59
-2024-02-09T14:13:33.780273,BMO,5,insured,fixed,5.14
-2024-02-09T14:13:33.780275,BMO,5,uninsured,variable,6.95
-2024-02-09T14:13:38.664771,CIBC,5,uninsured,fixed,6.84
-2024-02-09T14:13:38.664783,CIBC,5,insured,fixed,6.84
-2024-02-09T14:13:38.664787,CIBC,5,uninsured,variable,7.20
-2024-02-09T14:13:38.664789,CIBC,5,insured,variable,7.20
-2024-02-09T14:13:37.672107,Canwise,2,insured,fixed,6.19
-2024-02-09T14:13:37.672112,Canwise,3,insured,fixed,5.44
-2024-02-09T14:13:37.672114,Canwise,5,insured,fixed,5.09
-2024-02-09T14:13:45.459737,Dominion Lending,1,insured,fixed,6.93
-2024-02-09T14:13:45.459744,Dominion Lending,2,insured,fixed,6.37
-2024-02-09T14:13:45.459747,Dominion Lending,3,insured,fixed,5.64
-2024-02-09T14:13:45.459750,Dominion Lending,4,insured,fixed,5.62
-2024-02-09T14:13:45.459753,Dominion Lending,5,insured,fixed,5.09
-2024-02-09T14:13:45.459757,Dominion Lending,5,insured,variable,6.3
-2024-02-09T14:13:48.295464,Duca,5,insured,fixed,5.09
-2024-02-09T14:13:52.266981,Equitable Bank,1,insured,fixed,7.44
-2024-02-09T14:13:52.266986,Equitable Bank,2,insured,fixed,7.04
-2024-02-09T14:13:52.266988,Equitable Bank,3,insured,fixed,6.69
-2024-02-09T14:13:52.266989,Equitable Bank,4,insured,fixed,6.44
-2024-02-09T14:13:52.266991,Equitable Bank,5,insured,fixed,5.09
-2024-02-09T14:13:52.266993,Equitable Bank,5,insured,variable,6.3
-2024-02-09T14:13:54.743231,First National Financial,1,insured,fixed,7.35
-2024-02-09T14:13:54.743251,First National Financial,1,uninsured,fixed,7.35
-2024-02-09T14:13:54.743235,First National Financial,2,insured,fixed,6.52
-2024-02-09T14:13:54.743253,First National Financial,2,uninsured,fixed,6.52
-2024-02-09T14:13:54.743237,First National Financial,3,insured,fixed,5.91
-2024-02-09T14:13:54.743254,First National Financial,3,uninsured,fixed,5.91
-2024-02-09T14:13:54.743239,First National Financial,4,insured,fixed,5.77
-2024-02-09T14:13:54.743255,First National Financial,4,uninsured,fixed,5.77
-2024-02-09T14:13:54.743241,First National Financial,5,insured,fixed,5.090000000000001
-2024-02-09T14:13:54.743257,First National Financial,5,uninsured,fixed,5.67
-2024-02-09T14:13:54.743264,First National Financial,5,insured,variable,6.3
-2024-02-09T14:13:54.743267,First National Financial,5,uninsured,variable,7.05
-2024-02-09T14:13:59.827968,HSBC,2,insured,fixed,6.04
-2024-02-09T14:13:59.827973,HSBC,2,uninsured,fixed,6.04
-2024-02-09T14:13:59.827979,HSBC,3,insured,fixed,5.59
-2024-02-09T14:13:59.827981,HSBC,3,uninsured,fixed,5.59
-2024-02-09T14:13:59.827983,HSBC,5,insured,fixed,5.39
-2024-02-09T14:13:59.827984,HSBC,5,uninsured,fixed,5.39
-2024-02-09T14:14:06.035433,MCAP,1,insured,fixed,7.44
-2024-02-09T14:14:06.035432,MCAP,2,insured,fixed,7.14
-2024-02-09T14:14:06.035431,MCAP,3,insured,fixed,5.44
-2024-02-09T14:14:06.035430,MCAP,4,insured,fixed,5.24
-2024-02-09T14:14:06.035425,MCAP,5,insured,fixed,5.09
-2024-02-09T14:14:13.898975,Meridian,5,uninsured,fixed,5.6
-2024-02-09T14:14:13.898981,Meridian,5,insured,fixed,5.05
-2024-02-09T14:14:19.269158,Motus Bank,5,insured,fixed,6.69
-2024-02-09T14:14:25.449798,National Bank,4,uninsured,fixed,5.64
-2024-02-09T14:14:25.449790,National Bank,5,uninsured,variable,6.95
-2024-02-09T14:14:25.449805,National Bank,5,uninsured,fixed,5.64
-2024-02-09T14:14:30.401867,Nesto,2,insured,fixed,5.84
-2024-02-09T14:14:30.401874,Nesto,3,insured,fixed,5.34
-2024-02-09T14:14:30.401878,Nesto,3,insured,variable,6.2
-2024-02-09T14:14:30.401886,Nesto,4,insured,fixed,5.04
-2024-02-09T14:14:30.401888,Nesto,5,insured,fixed,4.79
-2024-02-09T14:14:30.401891,Nesto,5,insured,variable,5.9
-2024-02-09T14:14:36.634124,Pegasus,1,insured,fixed,6.79
-2024-02-09T14:14:36.634129,Pegasus,2,insured,fixed,6.37
-2024-02-09T14:14:36.634130,Pegasus,3,insured,fixed,5.54
-2024-02-09T14:14:36.634132,Pegasus,4,insured,fixed,5.44
-2024-02-09T14:14:36.634133,Pegasus,5,insured,fixed,5.04
-2024-02-09T14:14:36.634137,Pegasus,5,insured,variable,6.2
-2024-02-09T14:14:38.806215,Peoples Trust,1,insured,fixed,6.94
-2024-02-09T14:14:38.806221,Peoples Trust,2,insured,fixed,6.54
-2024-02-09T14:14:38.806223,Peoples Trust,3,insured,fixed,5.34
-2024-02-09T14:14:38.806225,Peoples Trust,4,insured,fixed,5.09
-2024-02-09T14:14:38.806226,Peoples Trust,5,insured,fixed,5.09
-2024-02-09T14:14:41.631554,Pine,2,insured,fixed,6.24
-2024-02-09T14:14:41.631560,Pine,3,insured,fixed,5.09
-2024-02-09T14:14:41.631563,Pine,4,insured,fixed,4.84
-2024-02-09T14:14:41.631571,Pine,5,insured,fixed,4.84
-2024-02-09T14:14:49.110131,RBC,2,uninsured,fixed,6.39
-2024-02-09T14:14:49.110147,RBC,5,uninsured,fixed,5.59
-2024-02-09T14:14:49.110149,RBC,5,uninsured,variable,6.89
-2024-02-09T14:14:49.110153,RBC,5,insured,fixed,5.14
-2024-02-09T14:14:49.110154,RBC,5,insured,variable,6.59
-2024-02-09T14:14:53.403405,Rocket Mortgage,5,uninsured,variable,6.80
-2024-02-09T14:14:53.403411,Rocket Mortgage,5,uninsured,fixed,5.59
-2024-02-09T14:14:53.403413,Rocket Mortgage,5,insured,variable,6.25
-2024-02-09T14:14:53.403415,Rocket Mortgage,5,insured,fixed,5.09
-2024-02-09T14:15:01.759819,Strive,1,insured,fixed,7.44
-2024-02-09T14:15:01.759821,Strive,2,insured,fixed,6.64
-2024-02-09T14:15:01.759822,Strive,3,insured,fixed,5.34
-2024-02-09T14:15:01.759823,Strive,4,insured,fixed,5.24
-2024-02-09T14:15:01.759812,Strive,5,insured,fixed,5.09
-2024-02-09T14:15:01.759817,Strive,5,insured,variable,6.3
-2024-02-09T14:15:01.759827,Strive,5,uninsured,fixed,5.59
-2024-02-09T14:15:01.759831,Strive,5,uninsured,variable,6.95
-2024-02-09T14:15:11.399526,TD,3,uninsured,fixed,5.86
-2024-02-09T14:15:11.399534,TD,5,uninsured,fixed,5.6
-2024-02-09T14:15:11.399536,TD,5,uninsured,fixed,5.15
-2024-02-09T14:15:11.399538,TD,5,insured,fixed,5.15
-2024-02-09T14:15:11.399545,TD,5,uninsured,variable,6.95
-2024-02-09T14:15:17.438525,True North Mortgage,1,insured,fixed,4.99
-2024-02-09T14:15:17.438532,True North Mortgage,2,insured,fixed,5.99
-2024-02-09T14:15:17.438534,True North Mortgage,3,insured,fixed,4.99
-2024-02-09T14:15:17.438536,True North Mortgage,4,insured,fixed,5.34
-2024-02-09T14:15:17.438539,True North Mortgage,5,insured,fixed,4.99
-2024-02-09T14:15:17.438542,True North Mortgage,5,insured,variable,6.7
-2024-02-09T14:15:17.438544,True North Mortgage,5,insured,variable,5.99
+2024-02-09T17:13:31.050822,BMO,3,uninsured,fixed,5.85
+2024-02-09T17:13:31.050830,BMO,5,uninsured,fixed,5.59
+2024-02-09T17:13:31.050832,BMO,5,insured,fixed,5.14
+2024-02-09T17:13:31.050835,BMO,5,uninsured,variable,6.95
+2024-02-09T17:13:35.603329,CIBC,5,uninsured,fixed,6.84
+2024-02-09T17:13:35.603343,CIBC,5,insured,fixed,6.84
+2024-02-09T17:13:35.603346,CIBC,5,uninsured,variable,7.20
+2024-02-09T17:13:35.603349,CIBC,5,insured,variable,7.20
+2024-02-09T17:13:35.101778,Canwise,2,insured,fixed,6.19
+2024-02-09T17:13:35.101785,Canwise,3,insured,fixed,5.44
+2024-02-09T17:13:35.101787,Canwise,5,insured,fixed,5.09
+2024-02-09T17:13:49.811424,Duca,5,insured,fixed,5.09
+2024-02-09T17:13:54.077233,Equitable Bank,1,insured,fixed,7.44
+2024-02-09T17:13:54.077239,Equitable Bank,2,insured,fixed,7.04
+2024-02-09T17:13:54.077241,Equitable Bank,3,insured,fixed,6.69
+2024-02-09T17:13:54.077243,Equitable Bank,4,insured,fixed,6.44
+2024-02-09T17:13:54.077245,Equitable Bank,5,insured,fixed,5.09
+2024-02-09T17:13:54.077248,Equitable Bank,5,insured,variable,6.3
+2024-02-09T17:13:58.279772,First National Financial,1,insured,fixed,7.35
+2024-02-09T17:13:58.279794,First National Financial,1,uninsured,fixed,7.35
+2024-02-09T17:13:58.279778,First National Financial,2,insured,fixed,6.52
+2024-02-09T17:13:58.279796,First National Financial,2,uninsured,fixed,6.52
+2024-02-09T17:13:58.279779,First National Financial,3,insured,fixed,5.91
+2024-02-09T17:13:58.279797,First National Financial,3,uninsured,fixed,5.91
+2024-02-09T17:13:58.279781,First National Financial,4,insured,fixed,5.77
+2024-02-09T17:13:58.279799,First National Financial,4,uninsured,fixed,5.77
+2024-02-09T17:13:58.279783,First National Financial,5,insured,fixed,5.090000000000001
+2024-02-09T17:13:58.279801,First National Financial,5,uninsured,fixed,5.67
+2024-02-09T17:13:58.279807,First National Financial,5,insured,variable,6.3
+2024-02-09T17:13:58.279810,First National Financial,5,uninsured,variable,7.05
+2024-02-09T17:14:03.846081,HSBC,2,insured,fixed,6.04
+2024-02-09T17:14:03.846087,HSBC,2,uninsured,fixed,6.04
+2024-02-09T17:14:03.846095,HSBC,3,insured,fixed,5.59
+2024-02-09T17:14:03.846097,HSBC,3,uninsured,fixed,5.59
+2024-02-09T17:14:03.846099,HSBC,5,insured,fixed,5.39
+2024-02-09T17:14:03.846101,HSBC,5,uninsured,fixed,5.39
+2024-02-09T17:14:10.993529,MCAP,1,insured,fixed,7.44
+2024-02-09T17:14:10.993528,MCAP,2,insured,fixed,7.14
+2024-02-09T17:14:10.993527,MCAP,3,insured,fixed,5.44
+2024-02-09T17:14:10.993526,MCAP,4,insured,fixed,5.24
+2024-02-09T17:14:10.993521,MCAP,5,insured,fixed,5.09
+2024-02-09T17:14:16.797311,Meridian,5,uninsured,fixed,5.6
+2024-02-09T17:14:16.797317,Meridian,5,insured,fixed,5.05
+2024-02-09T17:14:20.794570,Motus Bank,5,insured,fixed,6.69
+2024-02-09T17:14:27.205820,National Bank,4,uninsured,fixed,5.64
+2024-02-09T17:14:27.205810,National Bank,5,uninsured,variable,6.95
+2024-02-09T17:14:27.205828,National Bank,5,uninsured,fixed,5.64
+2024-02-09T17:14:35.635455,Nesto,2,insured,fixed,5.84
+2024-02-09T17:14:35.635463,Nesto,3,insured,fixed,5.34
+2024-02-09T17:14:35.635466,Nesto,3,insured,variable,6.2
+2024-02-09T17:14:35.635476,Nesto,4,insured,fixed,5.04
+2024-02-09T17:14:35.635479,Nesto,5,insured,fixed,4.79
+2024-02-09T17:14:35.635482,Nesto,5,insured,variable,5.9
+2024-02-09T17:14:42.083620,Pegasus,1,insured,fixed,6.79
+2024-02-09T17:14:42.083626,Pegasus,2,insured,fixed,6.37
+2024-02-09T17:14:42.083628,Pegasus,3,insured,fixed,5.54
+2024-02-09T17:14:42.083630,Pegasus,4,insured,fixed,5.44
+2024-02-09T17:14:42.083631,Pegasus,5,insured,fixed,5.04
+2024-02-09T17:14:42.083634,Pegasus,5,insured,variable,6.2
+2024-02-09T17:14:44.989209,Peoples Trust,1,insured,fixed,6.94
+2024-02-09T17:14:44.989215,Peoples Trust,2,insured,fixed,6.54
+2024-02-09T17:14:44.989217,Peoples Trust,3,insured,fixed,5.34
+2024-02-09T17:14:44.989219,Peoples Trust,4,insured,fixed,5.09
+2024-02-09T17:14:44.989221,Peoples Trust,5,insured,fixed,5.09
+2024-02-09T17:14:48.213901,Pine,2,insured,fixed,6.24
+2024-02-09T17:14:48.213909,Pine,3,insured,fixed,5.09
+2024-02-09T17:14:48.213912,Pine,4,insured,fixed,4.84
+2024-02-09T17:14:48.213920,Pine,5,insured,fixed,4.84
+2024-02-09T17:14:56.270085,RBC,2,uninsured,fixed,6.39
+2024-02-09T17:14:56.270101,RBC,5,uninsured,fixed,5.59
+2024-02-09T17:14:56.270104,RBC,5,uninsured,variable,6.89
+2024-02-09T17:14:56.270108,RBC,5,insured,fixed,5.14
+2024-02-09T17:14:56.270110,RBC,5,insured,variable,6.59
+2024-02-09T17:15:00.790969,Rocket Mortgage,5,uninsured,variable,6.80
+2024-02-09T17:15:00.790977,Rocket Mortgage,5,uninsured,fixed,5.59
+2024-02-09T17:15:00.790980,Rocket Mortgage,5,insured,variable,6.25
+2024-02-09T17:15:00.790982,Rocket Mortgage,5,insured,fixed,5.09
+2024-02-09T17:15:09.262062,Strive,1,insured,fixed,7.44
+2024-02-09T17:15:09.262064,Strive,2,insured,fixed,6.64
+2024-02-09T17:15:09.262066,Strive,3,insured,fixed,5.34
+2024-02-09T17:15:09.262068,Strive,4,insured,fixed,5.24
+2024-02-09T17:15:09.262053,Strive,5,insured,fixed,5.09
+2024-02-09T17:15:09.262060,Strive,5,insured,variable,6.3
+2024-02-09T17:15:09.262070,Strive,5,uninsured,fixed,5.59
+2024-02-09T17:15:09.262075,Strive,5,uninsured,variable,6.95
+2024-02-09T17:15:19.666573,TD,3,uninsured,fixed,5.86
+2024-02-09T17:15:19.666580,TD,5,uninsured,fixed,5.6
+2024-02-09T17:15:19.666582,TD,5,uninsured,fixed,5.15
+2024-02-09T17:15:19.666584,TD,5,insured,fixed,5.15
+2024-02-09T17:15:19.666592,TD,5,uninsured,variable,6.95
+2024-02-09T17:15:25.624222,True North Mortgage,1,insured,fixed,4.99
+2024-02-09T17:15:25.624229,True North Mortgage,2,insured,fixed,5.99
+2024-02-09T17:15:25.624232,True North Mortgage,3,insured,fixed,4.99
+2024-02-09T17:15:25.624234,True North Mortgage,4,insured,fixed,5.34
+2024-02-09T17:15:25.624237,True North Mortgage,5,insured,fixed,4.99
+2024-02-09T17:15:25.624240,True North Mortgage,5,insured,variable,6.7
+2024-02-09T17:15:25.624243,True North Mortgage,5,insured,variable,5.99
