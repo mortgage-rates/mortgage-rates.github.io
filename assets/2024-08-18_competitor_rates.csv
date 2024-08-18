@@ -1,66 +1,67 @@
 Timestamp,Provider,Term (Years),Insurability,Type,Rate
-2024-08-18T20:17:06.592805,BMO,3,uninsured,fixed,5.24
-2024-08-18T20:17:06.592818,BMO,5,uninsured,fixed,5.14
-2024-08-18T20:17:06.592823,BMO,5,insured,fixed,4.74
-2024-08-18T20:17:06.592829,BMO,5,uninsured,variable,6.2
-2024-08-18T20:17:10.322714,CIBC,5,uninsured,fixed,6.84
-2024-08-18T20:17:10.322723,CIBC,5,insured,fixed,6.84
-2024-08-18T20:17:10.322728,CIBC,5,uninsured,variable,6.70
-2024-08-18T20:17:10.322732,CIBC,5,insured,variable,6.70
-2024-08-18T20:17:09.929680,Canwise,2,insured,fixed,5.54
-2024-08-18T20:17:09.929695,Canwise,3,insured,fixed,4.64
-2024-08-18T20:17:09.929703,Canwise,5,insured,fixed,4.44
-2024-08-18T20:17:16.549426,Dominion Lending,1,insured,fixed,6.49
-2024-08-18T20:17:16.549444,Dominion Lending,2,insured,fixed,5.97
-2024-08-18T20:17:16.549455,Dominion Lending,3,insured,fixed,5.09
-2024-08-18T20:17:16.549464,Dominion Lending,4,insured,fixed,5.04
-2024-08-18T20:17:16.549473,Dominion Lending,5,insured,fixed,4.69
-2024-08-18T20:17:16.549485,Dominion Lending,5,insured,variable,5.75
-2024-08-18T20:17:26.664706,Equitable Bank,1,insured,fixed,7.44
-2024-08-18T20:17:26.664712,Equitable Bank,2,insured,fixed,6.44
-2024-08-18T20:17:26.664715,Equitable Bank,3,insured,fixed,5.29
-2024-08-18T20:17:26.664718,Equitable Bank,4,insured,fixed,5.69
-2024-08-18T20:17:26.664721,Equitable Bank,5,insured,fixed,4.69
-2024-08-18T20:17:26.664725,Equitable Bank,5,insured,variable,5.7
-2024-08-18T20:17:29.776416,First National Financial,1,insured,fixed,7.35
-2024-08-18T20:17:29.776467,First National Financial,1,uninsured,fixed,7.35
-2024-08-18T20:17:29.776429,First National Financial,2,insured,fixed,5.97
-2024-08-18T20:17:29.776475,First National Financial,2,uninsured,fixed,5.97
-2024-08-18T20:17:29.776438,First National Financial,3,insured,fixed,5.27
-2024-08-18T20:17:29.776484,First National Financial,3,uninsured,fixed,5.27
-2024-08-18T20:17:29.776446,First National Financial,4,insured,fixed,5.22
-2024-08-18T20:17:29.776490,First National Financial,4,uninsured,fixed,5.22
-2024-08-18T20:17:29.776454,First National Financial,5,insured,fixed,4.69
-2024-08-18T20:17:29.776498,First National Financial,5,uninsured,fixed,5.17
-2024-08-18T20:17:29.776510,First National Financial,5,insured,variable,5.75
-2024-08-18T20:17:29.776520,First National Financial,5,uninsured,variable,6.55
-2024-08-18T20:17:39.511815,MCAP,1,insured,fixed,7.44
-2024-08-18T20:17:39.511811,MCAP,2,insured,fixed,7.14
-2024-08-18T20:17:39.511808,MCAP,3,insured,fixed,5.34
-2024-08-18T20:17:39.511803,MCAP,4,insured,fixed,5.14
-2024-08-18T20:17:39.511795,MCAP,5,insured,fixed,5.09
-2024-08-18T20:17:45.248862,Meridian,5,insured,fixed,4.99
-2024-08-18T20:17:45.248871,Meridian,5,uninsured,fixed,4.49
-2024-08-18T20:17:49.626595,Motus Bank,5,insured,fixed,6.69
-2024-08-18T20:17:54.835586,National Bank,4,uninsured,fixed,5.09
-2024-08-18T20:17:54.835576,National Bank,5,uninsured,variable,6.2
-2024-08-18T20:17:54.835589,National Bank,5,uninsured,fixed,5.09
-2024-08-18T20:18:07.751941,Peoples Trust,1,insured,fixed,6.94
-2024-08-18T20:18:07.751952,Peoples Trust,2,insured,fixed,6.54
-2024-08-18T20:18:07.751959,Peoples Trust,3,insured,fixed,5.14
-2024-08-18T20:18:07.751965,Peoples Trust,4,insured,fixed,5.14
-2024-08-18T20:18:07.751971,Peoples Trust,5,insured,fixed,4.84
-2024-08-18T20:18:10.915461,Pine,2,insured,fixed,6.49
-2024-08-18T20:18:10.915475,Pine,3,insured,fixed,4.59
-2024-08-18T20:18:10.915482,Pine,4,insured,fixed,5.04
-2024-08-18T20:18:10.915488,Pine,5,insured,fixed,4.44
-2024-08-18T20:18:19.470224,Rocket Mortgage,5,uninsured,variable,6.20
-2024-08-18T20:18:19.470238,Rocket Mortgage,5,uninsured,fixed,5.04
-2024-08-18T20:18:19.470244,Rocket Mortgage,5,insured,variable,5.65
-2024-08-18T20:18:19.470249,Rocket Mortgage,5,insured,fixed,4.59
-2024-08-18T20:18:38.175516,True North Mortgage,1,insured,fixed,5.99
-2024-08-18T20:18:38.175524,True North Mortgage,2,insured,fixed,4.99
-2024-08-18T20:18:38.175528,True North Mortgage,3,insured,fixed,4.84
-2024-08-18T20:18:38.175531,True North Mortgage,4,insured,fixed,4.84
-2024-08-18T20:18:38.175535,True North Mortgage,5,insured,fixed,4.49
-2024-08-18T20:18:38.175539,True North Mortgage,5,insured,variable,5.5
+2024-08-18T23:18:43.404540,BMO,3,uninsured,fixed,5.24
+2024-08-18T23:18:43.404550,BMO,5,uninsured,fixed,5.14
+2024-08-18T23:18:43.404555,BMO,5,insured,fixed,4.74
+2024-08-18T23:18:43.404560,BMO,5,uninsured,variable,6.2
+2024-08-18T23:18:45.859766,CIBC,5,uninsured,fixed,6.84
+2024-08-18T23:18:45.859774,CIBC,5,insured,fixed,6.84
+2024-08-18T23:18:45.859778,CIBC,5,uninsured,variable,6.70
+2024-08-18T23:18:45.859782,CIBC,5,insured,variable,6.70
+2024-08-18T23:18:45.480929,Canwise,2,insured,fixed,5.54
+2024-08-18T23:18:45.480936,Canwise,3,insured,fixed,4.64
+2024-08-18T23:18:45.480939,Canwise,5,insured,fixed,4.44
+2024-08-18T23:18:53.623836,Dominion Lending,1,insured,fixed,6.49
+2024-08-18T23:18:53.623849,Dominion Lending,2,insured,fixed,5.97
+2024-08-18T23:18:53.623856,Dominion Lending,3,insured,fixed,5.09
+2024-08-18T23:18:53.623862,Dominion Lending,4,insured,fixed,5.04
+2024-08-18T23:18:53.623868,Dominion Lending,5,insured,fixed,4.69
+2024-08-18T23:18:53.623878,Dominion Lending,5,insured,variable,5.75
+2024-08-18T23:18:57.222351,Duca,5,insured,fixed,5.09
+2024-08-18T23:19:01.127134,Equitable Bank,1,insured,fixed,7.44
+2024-08-18T23:19:01.127145,Equitable Bank,2,insured,fixed,6.44
+2024-08-18T23:19:01.127152,Equitable Bank,3,insured,fixed,5.29
+2024-08-18T23:19:01.127156,Equitable Bank,4,insured,fixed,5.69
+2024-08-18T23:19:01.127161,Equitable Bank,5,insured,fixed,4.69
+2024-08-18T23:19:01.127166,Equitable Bank,5,insured,variable,5.7
+2024-08-18T23:19:04.025940,First National Financial,1,insured,fixed,7.35
+2024-08-18T23:19:04.025961,First National Financial,1,uninsured,fixed,7.35
+2024-08-18T23:19:04.025947,First National Financial,2,insured,fixed,5.97
+2024-08-18T23:19:04.025964,First National Financial,2,uninsured,fixed,5.97
+2024-08-18T23:19:04.025950,First National Financial,3,insured,fixed,5.27
+2024-08-18T23:19:04.025966,First National Financial,3,uninsured,fixed,5.27
+2024-08-18T23:19:04.025953,First National Financial,4,insured,fixed,5.22
+2024-08-18T23:19:04.025969,First National Financial,4,uninsured,fixed,5.22
+2024-08-18T23:19:04.025956,First National Financial,5,insured,fixed,4.69
+2024-08-18T23:19:04.025972,First National Financial,5,uninsured,fixed,5.17
+2024-08-18T23:19:04.025978,First National Financial,5,insured,variable,5.75
+2024-08-18T23:19:04.025982,First National Financial,5,uninsured,variable,6.55
+2024-08-18T23:19:12.125423,MCAP,1,insured,fixed,7.44
+2024-08-18T23:19:12.125420,MCAP,2,insured,fixed,7.14
+2024-08-18T23:19:12.125416,MCAP,3,insured,fixed,5.34
+2024-08-18T23:19:12.125412,MCAP,4,insured,fixed,5.14
+2024-08-18T23:19:12.125404,MCAP,5,insured,fixed,5.09
+2024-08-18T23:19:17.755683,Meridian,5,insured,fixed,4.99
+2024-08-18T23:19:17.755696,Meridian,5,uninsured,fixed,4.49
+2024-08-18T23:19:23.192115,Motus Bank,5,insured,fixed,6.69
+2024-08-18T23:19:28.903782,National Bank,4,uninsured,fixed,5.09
+2024-08-18T23:19:28.903773,National Bank,5,uninsured,variable,6.2
+2024-08-18T23:19:28.903785,National Bank,5,uninsured,fixed,5.09
+2024-08-18T23:19:40.596911,Peoples Trust,1,insured,fixed,6.94
+2024-08-18T23:19:40.596917,Peoples Trust,2,insured,fixed,6.54
+2024-08-18T23:19:40.596921,Peoples Trust,3,insured,fixed,5.14
+2024-08-18T23:19:40.596924,Peoples Trust,4,insured,fixed,5.14
+2024-08-18T23:19:40.596927,Peoples Trust,5,insured,fixed,4.84
+2024-08-18T23:19:43.083324,Pine,2,insured,fixed,6.49
+2024-08-18T23:19:43.083337,Pine,3,insured,fixed,4.59
+2024-08-18T23:19:43.083345,Pine,4,insured,fixed,5.04
+2024-08-18T23:19:43.083351,Pine,5,insured,fixed,4.44
+2024-08-18T23:19:51.552120,Rocket Mortgage,5,uninsured,variable,6.20
+2024-08-18T23:19:51.552133,Rocket Mortgage,5,uninsured,fixed,5.04
+2024-08-18T23:19:51.552141,Rocket Mortgage,5,insured,variable,5.65
+2024-08-18T23:19:51.552147,Rocket Mortgage,5,insured,fixed,4.59
+2024-08-18T23:20:12.642739,True North Mortgage,1,insured,fixed,5.99
+2024-08-18T23:20:12.642749,True North Mortgage,2,insured,fixed,4.99
+2024-08-18T23:20:12.642756,True North Mortgage,3,insured,fixed,4.84
+2024-08-18T23:20:12.642761,True North Mortgage,4,insured,fixed,4.84
+2024-08-18T23:20:12.642767,True North Mortgage,5,insured,fixed,4.49
+2024-08-18T23:20:12.642774,True North Mortgage,5,insured,variable,5.5
