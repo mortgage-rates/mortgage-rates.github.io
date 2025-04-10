@@ -1,51 +1,54 @@
 Timestamp,Provider,Term (Years),Insurability,Type,Rate
-2025-04-10T16:30:15.273314,CIBC,5,uninsured,fixed,6.49
-2025-04-10T16:30:15.273323,CIBC,5,insured,fixed,6.49
-2025-04-10T16:30:15.273327,CIBC,5,uninsured,variable,4.95
-2025-04-10T16:30:15.273330,CIBC,5,insured,variable,4.95
-2025-04-10T16:30:14.926280,Canwise,2,insured,fixed,4.29
-2025-04-10T16:30:14.926294,Canwise,3,insured,fixed,4.04
-2025-04-10T16:30:14.926299,Canwise,5,insured,fixed,3.89
-2025-04-10T16:30:28.293802,Dominion Lending,1,insured,fixed,5.24
-2025-04-10T16:30:28.293813,Dominion Lending,2,insured,fixed,4.79
-2025-04-10T16:30:28.293819,Dominion Lending,3,insured,fixed,4.09
-2025-04-10T16:30:28.293825,Dominion Lending,4,insured,fixed,4.34
-2025-04-10T16:30:28.293831,Dominion Lending,5,insured,fixed,3.99
-2025-04-10T16:30:28.293842,Dominion Lending,5,insured,variable,4.3
-2025-04-10T16:30:33.155837,Duca,5,insured,fixed,3.79
-2025-04-10T16:30:41.629961,First National Financial,1,insured,fixed,5.49
-2025-04-10T16:30:41.629979,First National Financial,1,uninsured,fixed,5.49
-2025-04-10T16:30:41.629967,First National Financial,2,insured,fixed,4.79
-2025-04-10T16:30:41.629981,First National Financial,2,uninsured,fixed,4.79
-2025-04-10T16:30:41.629970,First National Financial,3,insured,fixed,4.44
-2025-04-10T16:30:41.629983,First National Financial,3,uninsured,fixed,4.44
-2025-04-10T16:30:41.629973,First National Financial,4,insured,fixed,4.44
-2025-04-10T16:30:41.629985,First National Financial,4,uninsured,fixed,4.44
-2025-04-10T16:30:41.629975,First National Financial,5,insured,fixed,3.9899999999999998
-2025-04-10T16:30:41.629988,First National Financial,5,uninsured,fixed,4.44
-2025-04-10T16:30:41.629993,First National Financial,5,insured,variable,4.25
-2025-04-10T16:30:41.629996,First National Financial,5,uninsured,variable,4.6000000000000005
-2025-04-10T16:31:07.297351,MCAP,1,insured,fixed,7.44
-2025-04-10T16:31:07.297348,MCAP,2,insured,fixed,7.14
-2025-04-10T16:31:07.297345,MCAP,3,insured,fixed,5.34
-2025-04-10T16:31:07.297342,MCAP,4,insured,fixed,5.14
-2025-04-10T16:31:07.297334,MCAP,5,insured,fixed,5.09
-2025-04-10T16:31:21.394327,Motus Bank,5,insured,fixed,6.69
-2025-04-10T16:31:55.518591,Peoples Trust,1,insured,fixed,5.34
-2025-04-10T16:31:55.518600,Peoples Trust,2,insured,fixed,4.89
-2025-04-10T16:31:55.518604,Peoples Trust,3,insured,fixed,4.74
-2025-04-10T16:31:55.518609,Peoples Trust,4,insured,fixed,4.64
-2025-04-10T16:31:58.936599,Pine,2,insured,fixed,6.24
-2025-04-10T16:31:58.936608,Pine,3,insured,fixed,4.04
-2025-04-10T16:31:58.936611,Pine,4,insured,fixed,4.44
-2025-04-10T16:31:58.936614,Pine,5,insured,fixed,3.94
-2025-04-10T16:32:10.051822,Rocket Mortgage,5,uninsured,variable,4.70
-2025-04-10T16:32:10.051836,Rocket Mortgage,5,uninsured,fixed,4.59
-2025-04-10T16:32:10.051842,Rocket Mortgage,5,insured,variable,4.35
-2025-04-10T16:32:10.051847,Rocket Mortgage,5,insured,fixed,3.99
-2025-04-10T16:32:49.811938,True North Mortgage,1,insured,fixed,4.99
-2025-04-10T16:32:49.811950,True North Mortgage,2,insured,fixed,4.09
-2025-04-10T16:32:49.811953,True North Mortgage,3,insured,fixed,3.99
-2025-04-10T16:32:49.811956,True North Mortgage,4,insured,fixed,4.39
-2025-04-10T16:32:49.811959,True North Mortgage,5,insured,fixed,3.99
-2025-04-10T16:32:49.811963,True North Mortgage,5,insured,variable,4.1
+2025-04-10T19:17:57.708856,CIBC,5,uninsured,fixed,6.49
+2025-04-10T19:17:57.708870,CIBC,5,insured,fixed,6.49
+2025-04-10T19:17:57.708876,CIBC,5,uninsured,variable,4.95
+2025-04-10T19:17:57.708882,CIBC,5,insured,variable,4.95
+2025-04-10T19:18:10.633072,Dominion Lending,1,insured,fixed,5.24
+2025-04-10T19:18:10.633081,Dominion Lending,2,insured,fixed,4.79
+2025-04-10T19:18:10.633087,Dominion Lending,3,insured,fixed,4.09
+2025-04-10T19:18:10.633093,Dominion Lending,4,insured,fixed,4.34
+2025-04-10T19:18:10.633099,Dominion Lending,5,insured,fixed,3.99
+2025-04-10T19:18:10.633106,Dominion Lending,5,insured,variable,4.3
+2025-04-10T19:18:14.273651,Duca,5,insured,fixed,3.79
+2025-04-10T19:18:19.518326,Equitable Bank,1,insured,fixed,6.29
+2025-04-10T19:18:19.518336,Equitable Bank,2,insured,fixed,5.39
+2025-04-10T19:18:19.518340,Equitable Bank,3,insured,fixed,4.44
+2025-04-10T19:18:19.518344,Equitable Bank,4,insured,fixed,4.64
+2025-04-10T19:18:19.518348,Equitable Bank,5,insured,fixed,3.99
+2025-04-10T19:18:19.518353,Equitable Bank,5,insured,variable,4.25
+2025-04-10T19:18:22.465940,First National Financial,1,insured,fixed,5.49
+2025-04-10T19:18:22.465965,First National Financial,1,uninsured,fixed,5.49
+2025-04-10T19:18:22.465948,First National Financial,2,insured,fixed,4.79
+2025-04-10T19:18:22.465969,First National Financial,2,uninsured,fixed,4.79
+2025-04-10T19:18:22.465952,First National Financial,3,insured,fixed,4.44
+2025-04-10T19:18:22.465973,First National Financial,3,uninsured,fixed,4.44
+2025-04-10T19:18:22.465956,First National Financial,4,insured,fixed,4.44
+2025-04-10T19:18:22.465976,First National Financial,4,uninsured,fixed,4.44
+2025-04-10T19:18:22.465960,First National Financial,5,insured,fixed,3.9899999999999998
+2025-04-10T19:18:22.465980,First National Financial,5,uninsured,fixed,4.44
+2025-04-10T19:18:22.465987,First National Financial,5,insured,variable,4.25
+2025-04-10T19:18:22.465993,First National Financial,5,uninsured,variable,4.6000000000000005
+2025-04-10T19:18:49.135721,MCAP,1,insured,fixed,7.44
+2025-04-10T19:18:49.135717,MCAP,2,insured,fixed,7.14
+2025-04-10T19:18:49.135714,MCAP,3,insured,fixed,5.34
+2025-04-10T19:18:49.135711,MCAP,4,insured,fixed,5.14
+2025-04-10T19:18:49.135705,MCAP,5,insured,fixed,5.09
+2025-04-10T19:19:03.569780,Motus Bank,5,insured,fixed,6.69
+2025-04-10T19:19:38.119211,Peoples Trust,1,insured,fixed,5.34
+2025-04-10T19:19:38.119221,Peoples Trust,2,insured,fixed,4.89
+2025-04-10T19:19:38.119226,Peoples Trust,3,insured,fixed,4.74
+2025-04-10T19:19:38.119232,Peoples Trust,4,insured,fixed,4.64
+2025-04-10T19:19:41.666940,Pine,2,insured,fixed,6.24
+2025-04-10T19:19:41.666948,Pine,3,insured,fixed,4.04
+2025-04-10T19:19:41.666952,Pine,4,insured,fixed,4.44
+2025-04-10T19:19:41.666955,Pine,5,insured,fixed,3.94
+2025-04-10T19:19:54.645966,Rocket Mortgage,5,uninsured,variable,4.70
+2025-04-10T19:19:54.645976,Rocket Mortgage,5,uninsured,fixed,4.59
+2025-04-10T19:19:54.645981,Rocket Mortgage,5,insured,variable,4.35
+2025-04-10T19:19:54.645985,Rocket Mortgage,5,insured,fixed,3.99
+2025-04-10T19:20:38.017528,True North Mortgage,1,insured,fixed,4.99
+2025-04-10T19:20:38.017539,True North Mortgage,2,insured,fixed,4.09
+2025-04-10T19:20:38.017546,True North Mortgage,3,insured,fixed,3.99
+2025-04-10T19:20:38.017551,True North Mortgage,4,insured,fixed,4.39
+2025-04-10T19:20:38.017557,True North Mortgage,5,insured,fixed,3.99
+2025-04-10T19:20:38.017563,True North Mortgage,5,insured,variable,4.1
