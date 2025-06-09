@@ -1,45 +1,51 @@
 Timestamp,Provider,Term (Years),Insurability,Type,Rate
-2025-06-09T10:27:31.926072,CIBC,5,uninsured,fixed,6.49
-2025-06-09T10:27:31.926081,CIBC,5,insured,fixed,6.49
-2025-06-09T10:27:31.926086,CIBC,5,uninsured,variable,4.95
-2025-06-09T10:27:31.926089,CIBC,5,insured,variable,4.95
-2025-06-09T10:27:31.662914,Canwise,2,insured,fixed,4.29
-2025-06-09T10:27:31.662925,Canwise,3,insured,fixed,4.04
-2025-06-09T10:27:31.662929,Canwise,5,insured,fixed,3.99
-2025-06-09T10:27:44.082743,Dominion Lending,1,insured,fixed,5.29
-2025-06-09T10:27:44.082751,Dominion Lending,2,insured,fixed,4.69
-2025-06-09T10:27:44.082757,Dominion Lending,3,insured,fixed,4.24
-2025-06-09T10:27:44.082764,Dominion Lending,4,insured,fixed,4.34
-2025-06-09T10:27:44.082772,Dominion Lending,5,insured,fixed,4.29
-2025-06-09T10:27:44.082783,Dominion Lending,5,insured,variable,4.3
-2025-06-09T10:27:54.700864,Equitable Bank,1,insured,fixed,6.2
-2025-06-09T10:27:54.700870,Equitable Bank,2,insured,fixed,5.3
-2025-06-09T10:27:54.700874,Equitable Bank,3,insured,fixed,4.6
-2025-06-09T10:27:54.700876,Equitable Bank,4,insured,fixed,4.6
-2025-06-09T10:27:54.700878,Equitable Bank,5,insured,fixed,4.2
-2025-06-09T10:27:54.700882,Equitable Bank,5,insured,variable,4.25
-2025-06-09T10:27:57.433819,First National Financial,1,insured,fixed,5.59
-2025-06-09T10:27:57.433836,First National Financial,1,uninsured,fixed,5.59
-2025-06-09T10:27:57.433825,First National Financial,2,insured,fixed,4.84
-2025-06-09T10:27:57.433839,First National Financial,2,uninsured,fixed,4.84
-2025-06-09T10:27:57.433828,First National Financial,3,insured,fixed,4.34
-2025-06-09T10:27:57.433841,First National Financial,3,uninsured,fixed,4.34
-2025-06-09T10:27:57.433830,First National Financial,4,insured,fixed,4.49
-2025-06-09T10:27:57.433843,First National Financial,4,uninsured,fixed,4.49
-2025-06-09T10:27:57.433833,First National Financial,5,insured,fixed,4.29
-2025-06-09T10:27:57.433846,First National Financial,5,uninsured,fixed,4.44
-2025-06-09T10:27:57.433852,First National Financial,5,insured,variable,4.25
-2025-06-09T10:27:57.433856,First National Financial,5,uninsured,variable,4.5
-2025-06-09T10:28:22.921502,MCAP,1,insured,fixed,7.44
-2025-06-09T10:28:22.921499,MCAP,2,insured,fixed,7.14
-2025-06-09T10:28:22.921497,MCAP,3,insured,fixed,5.34
-2025-06-09T10:28:22.921493,MCAP,4,insured,fixed,5.14
-2025-06-09T10:28:22.921486,MCAP,5,insured,fixed,5.09
-2025-06-09T10:29:19.136403,Pine,2,insured,fixed,6.24
-2025-06-09T10:29:19.136415,Pine,3,insured,fixed,4.09
-2025-06-09T10:29:19.136422,Pine,4,insured,fixed,4.44
-2025-06-09T10:29:19.136427,Pine,5,insured,fixed,4.09
-2025-06-09T10:29:31.733556,Rocket Mortgage,5,uninsured,variable,4.70
-2025-06-09T10:29:31.733568,Rocket Mortgage,5,uninsured,fixed,4.59
-2025-06-09T10:29:31.733573,Rocket Mortgage,5,insured,variable,4.35
-2025-06-09T10:29:31.733577,Rocket Mortgage,5,insured,fixed,3.99
+2025-06-09T13:35:58.415415,CIBC,5,uninsured,fixed,6.49
+2025-06-09T13:35:58.415424,CIBC,5,insured,fixed,6.49
+2025-06-09T13:35:58.415430,CIBC,5,uninsured,variable,4.95
+2025-06-09T13:35:58.415433,CIBC,5,insured,variable,4.95
+2025-06-09T13:35:58.110151,Canwise,2,insured,fixed,4.29
+2025-06-09T13:35:58.110166,Canwise,3,insured,fixed,4.04
+2025-06-09T13:35:58.110171,Canwise,5,insured,fixed,3.99
+2025-06-09T13:36:10.494167,Dominion Lending,1,insured,fixed,5.29
+2025-06-09T13:36:10.494179,Dominion Lending,2,insured,fixed,4.69
+2025-06-09T13:36:10.494185,Dominion Lending,3,insured,fixed,4.24
+2025-06-09T13:36:10.494191,Dominion Lending,4,insured,fixed,4.34
+2025-06-09T13:36:10.494198,Dominion Lending,5,insured,fixed,4.29
+2025-06-09T13:36:10.494206,Dominion Lending,5,insured,variable,4.3
+2025-06-09T13:36:19.727373,Equitable Bank,1,insured,fixed,6.2
+2025-06-09T13:36:19.727382,Equitable Bank,2,insured,fixed,5.3
+2025-06-09T13:36:19.727387,Equitable Bank,3,insured,fixed,4.6
+2025-06-09T13:36:19.727391,Equitable Bank,4,insured,fixed,4.6
+2025-06-09T13:36:19.727395,Equitable Bank,5,insured,fixed,4.2
+2025-06-09T13:36:19.727399,Equitable Bank,5,insured,variable,4.25
+2025-06-09T13:36:22.146978,First National Financial,1,insured,fixed,5.59
+2025-06-09T13:36:22.147010,First National Financial,1,uninsured,fixed,5.59
+2025-06-09T13:36:22.146988,First National Financial,2,insured,fixed,4.84
+2025-06-09T13:36:22.147014,First National Financial,2,uninsured,fixed,4.84
+2025-06-09T13:36:22.146993,First National Financial,3,insured,fixed,4.34
+2025-06-09T13:36:22.147018,First National Financial,3,uninsured,fixed,4.34
+2025-06-09T13:36:22.146998,First National Financial,4,insured,fixed,4.49
+2025-06-09T13:36:22.147021,First National Financial,4,uninsured,fixed,4.49
+2025-06-09T13:36:22.147002,First National Financial,5,insured,fixed,4.29
+2025-06-09T13:36:22.147025,First National Financial,5,uninsured,fixed,4.44
+2025-06-09T13:36:22.147033,First National Financial,5,insured,variable,4.25
+2025-06-09T13:36:22.147039,First National Financial,5,uninsured,variable,4.5
+2025-06-09T13:36:46.336221,MCAP,1,insured,fixed,7.44
+2025-06-09T13:36:46.336218,MCAP,2,insured,fixed,7.14
+2025-06-09T13:36:46.336215,MCAP,3,insured,fixed,5.34
+2025-06-09T13:36:46.336211,MCAP,4,insured,fixed,5.14
+2025-06-09T13:36:46.336204,MCAP,5,insured,fixed,5.09
+2025-06-09T13:37:31.007969,Peoples Trust,1,insured,fixed,5.24
+2025-06-09T13:37:31.007977,Peoples Trust,2,insured,fixed,4.29
+2025-06-09T13:37:31.007980,Peoples Trust,3,insured,fixed,4.64
+2025-06-09T13:37:31.007982,Peoples Trust,4,insured,fixed,4.29
+2025-06-09T13:37:34.549536,Pine,2,insured,fixed,6.24
+2025-06-09T13:37:34.549545,Pine,3,insured,fixed,4.09
+2025-06-09T13:37:34.549549,Pine,4,insured,fixed,4.44
+2025-06-09T13:37:34.549552,Pine,5,insured,fixed,4.09
+2025-06-09T13:38:27.009875,True North Mortgage,1,insured,fixed,4.99
+2025-06-09T13:38:27.009883,True North Mortgage,2,insured,fixed,4.04
+2025-06-09T13:38:27.009886,True North Mortgage,3,insured,fixed,4.14
+2025-06-09T13:38:27.009889,True North Mortgage,4,insured,fixed,4.09
+2025-06-09T13:38:27.009891,True North Mortgage,5,insured,fixed,4.09
+2025-06-09T13:38:27.009895,True North Mortgage,5,insured,variable,4.1
