@@ -1,42 +1,41 @@
 Timestamp,Provider,Term (Years),Insurability,Type,Rate
-2025-08-08T13:42:37.050918,CIBC,5,uninsured,fixed,6.49
-2025-08-08T13:42:37.050928,CIBC,5,insured,fixed,6.49
-2025-08-08T13:42:37.050932,CIBC,5,uninsured,variable,4.95
-2025-08-08T13:42:37.050936,CIBC,5,insured,variable,4.95
-2025-08-08T13:42:36.796251,Canwise,2,insured,fixed,4.49
-2025-08-08T13:42:36.796262,Canwise,3,insured,fixed,4.34
-2025-08-08T13:42:36.796265,Canwise,5,insured,fixed,4.29
-2025-08-08T13:42:48.528715,Dominion Lending,1,insured,fixed,4.84
-2025-08-08T13:42:48.528723,Dominion Lending,2,insured,fixed,4.39
-2025-08-08T13:42:48.528727,Dominion Lending,3,insured,fixed,4.29
-2025-08-08T13:42:48.528730,Dominion Lending,4,insured,fixed,4.34
-2025-08-08T13:42:48.528733,Dominion Lending,5,insured,fixed,4.39
-2025-08-08T13:42:48.528739,Dominion Lending,5,insured,variable,4.3
-2025-08-08T13:42:51.849423,Duca,5,insured,fixed,4.19
-2025-08-08T13:42:56.101868,Equitable Bank,1,insured,fixed,6.2
-2025-08-08T13:42:56.101876,Equitable Bank,2,insured,fixed,5.3
-2025-08-08T13:42:56.101880,Equitable Bank,3,insured,fixed,4.6
-2025-08-08T13:42:56.101882,Equitable Bank,4,insured,fixed,4.6
-2025-08-08T13:42:56.101884,Equitable Bank,5,insured,fixed,4.2
-2025-08-08T13:42:56.101888,Equitable Bank,5,insured,variable,4.25
-2025-08-08T13:42:59.536507,First National Financial,1,insured,fixed,5.09
-2025-08-08T13:42:59.536526,First National Financial,1,uninsured,fixed,5.09
-2025-08-08T13:42:59.536514,First National Financial,2,insured,fixed,4.54
-2025-08-08T13:42:59.536528,First National Financial,2,uninsured,fixed,4.54
-2025-08-08T13:42:59.536517,First National Financial,3,insured,fixed,4.84
-2025-08-08T13:42:59.536531,First National Financial,3,uninsured,fixed,4.84
-2025-08-08T13:42:59.536519,First National Financial,4,insured,fixed,4.94
-2025-08-08T13:42:59.536533,First National Financial,4,uninsured,fixed,4.94
-2025-08-08T13:42:59.536522,First National Financial,5,insured,fixed,4.49
-2025-08-08T13:42:59.536535,First National Financial,5,uninsured,fixed,4.94
-2025-08-08T13:42:59.536541,First National Financial,5,insured,variable,4.5
-2025-08-08T13:42:59.536545,First National Financial,5,uninsured,variable,4.890000000000001
-2025-08-08T13:43:18.162138,MCAP,1,insured,fixed,7.44
-2025-08-08T13:43:18.162134,MCAP,2,insured,fixed,7.14
-2025-08-08T13:43:18.162131,MCAP,3,insured,fixed,5.34
-2025-08-08T13:43:18.162127,MCAP,4,insured,fixed,5.14
-2025-08-08T13:43:18.162120,MCAP,5,insured,fixed,5.09
-2025-08-08T13:43:56.972216,Peoples Trust,1,insured,fixed,5.34
-2025-08-08T13:43:56.972225,Peoples Trust,2,insured,fixed,4.44
-2025-08-08T13:43:56.972230,Peoples Trust,3,insured,fixed,4.74
-2025-08-08T13:43:56.972235,Peoples Trust,4,insured,fixed,4.44
+2025-08-08T16:31:33.490198,CIBC,5,uninsured,fixed,6.49
+2025-08-08T16:31:33.490207,CIBC,5,insured,fixed,6.49
+2025-08-08T16:31:33.490212,CIBC,5,uninsured,variable,4.95
+2025-08-08T16:31:33.490216,CIBC,5,insured,variable,4.95
+2025-08-08T16:31:33.114006,Canwise,2,insured,fixed,4.49
+2025-08-08T16:31:33.114018,Canwise,3,insured,fixed,4.34
+2025-08-08T16:31:33.114022,Canwise,5,insured,fixed,4.29
+2025-08-08T16:31:46.163221,Dominion Lending,1,insured,fixed,4.84
+2025-08-08T16:31:46.163256,Dominion Lending,2,insured,fixed,4.39
+2025-08-08T16:31:46.163261,Dominion Lending,3,insured,fixed,4.29
+2025-08-08T16:31:46.163265,Dominion Lending,4,insured,fixed,4.34
+2025-08-08T16:31:46.163268,Dominion Lending,5,insured,fixed,4.39
+2025-08-08T16:31:46.163274,Dominion Lending,5,insured,variable,4.3
+2025-08-08T16:31:57.011331,Equitable Bank,1,insured,fixed,6.2
+2025-08-08T16:31:57.011338,Equitable Bank,2,insured,fixed,5.3
+2025-08-08T16:31:57.011341,Equitable Bank,3,insured,fixed,4.6
+2025-08-08T16:31:57.011344,Equitable Bank,4,insured,fixed,4.6
+2025-08-08T16:31:57.011346,Equitable Bank,5,insured,fixed,4.2
+2025-08-08T16:31:57.011349,Equitable Bank,5,insured,variable,4.25
+2025-08-08T16:31:59.944252,First National Financial,1,insured,fixed,5.09
+2025-08-08T16:31:59.944274,First National Financial,1,uninsured,fixed,5.09
+2025-08-08T16:31:59.944260,First National Financial,2,insured,fixed,4.54
+2025-08-08T16:31:59.944276,First National Financial,2,uninsured,fixed,4.54
+2025-08-08T16:31:59.944263,First National Financial,3,insured,fixed,4.84
+2025-08-08T16:31:59.944278,First National Financial,3,uninsured,fixed,4.84
+2025-08-08T16:31:59.944266,First National Financial,4,insured,fixed,4.94
+2025-08-08T16:31:59.944281,First National Financial,4,uninsured,fixed,4.94
+2025-08-08T16:31:59.944269,First National Financial,5,insured,fixed,4.49
+2025-08-08T16:31:59.944283,First National Financial,5,uninsured,fixed,4.94
+2025-08-08T16:31:59.944289,First National Financial,5,insured,variable,4.5
+2025-08-08T16:31:59.944293,First National Financial,5,uninsured,variable,4.890000000000001
+2025-08-08T16:32:19.413772,MCAP,1,insured,fixed,7.44
+2025-08-08T16:32:19.413768,MCAP,2,insured,fixed,7.14
+2025-08-08T16:32:19.413764,MCAP,3,insured,fixed,5.34
+2025-08-08T16:32:19.413760,MCAP,4,insured,fixed,5.14
+2025-08-08T16:32:19.413751,MCAP,5,insured,fixed,5.09
+2025-08-08T16:33:01.652271,Peoples Trust,1,insured,fixed,5.34
+2025-08-08T16:33:01.652283,Peoples Trust,2,insured,fixed,4.44
+2025-08-08T16:33:01.652289,Peoples Trust,3,insured,fixed,4.74
+2025-08-08T16:33:01.652294,Peoples Trust,4,insured,fixed,4.44
