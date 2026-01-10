@@ -1,28 +1,44 @@
 Timestamp,Provider,Term (Years),Insurability,Type,Rate
-2026-01-10T16:31:32.124239,CIBC,5,uninsured,fixed,6.49
-2026-01-10T16:31:32.124250,CIBC,5,insured,fixed,6.49
-2026-01-10T16:31:32.124255,CIBC,5,uninsured,variable,4.45
-2026-01-10T16:31:32.124258,CIBC,5,insured,variable,4.45
-2026-01-10T16:32:21.710209,First National Financial,1,insured,fixed,4.99
-2026-01-10T16:32:21.710226,First National Financial,1,uninsured,fixed,4.99
-2026-01-10T16:32:21.710215,First National Financial,2,insured,fixed,4.54
-2026-01-10T16:32:21.710228,First National Financial,2,uninsured,fixed,4.54
-2026-01-10T16:32:21.710217,First National Financial,3,insured,fixed,4.54
-2026-01-10T16:32:21.710230,First National Financial,3,uninsured,fixed,4.54
-2026-01-10T16:32:21.710220,First National Financial,4,insured,fixed,4.54
-2026-01-10T16:32:21.710232,First National Financial,4,uninsured,fixed,4.54
-2026-01-10T16:32:21.710222,First National Financial,5,insured,fixed,4.19
-2026-01-10T16:32:21.710235,First National Financial,5,uninsured,fixed,4.69
-2026-01-10T16:32:21.710239,First National Financial,5,insured,variable,3.7500000000000004
-2026-01-10T16:32:21.710243,First National Financial,5,uninsured,variable,4.140000000000001
-2026-01-10T16:32:39.571914,MCAP,1,insured,fixed,7.44
-2026-01-10T16:32:39.571911,MCAP,2,insured,fixed,7.14
-2026-01-10T16:32:39.571907,MCAP,3,insured,fixed,5.34
-2026-01-10T16:32:39.571904,MCAP,4,insured,fixed,5.14
-2026-01-10T16:32:39.571896,MCAP,5,insured,fixed,5.09
-2026-01-10T16:32:59.089014,National Bank,5,uninsured,fixed,4.54
-2026-01-10T16:32:59.089022,National Bank,5,uninsured,variable,4.45
-2026-01-10T16:33:23.165214,Peoples Trust,1,insured,fixed,4.74
-2026-01-10T16:33:23.165222,Peoples Trust,2,insured,fixed,4.29
-2026-01-10T16:33:23.165227,Peoples Trust,3,insured,fixed,4.39
-2026-01-10T16:33:23.165232,Peoples Trust,4,insured,fixed,4.29
+2026-01-10T19:19:48.081747,CIBC,5,uninsured,fixed,6.49
+2026-01-10T19:19:48.081756,CIBC,5,insured,fixed,6.49
+2026-01-10T19:19:48.081760,CIBC,5,uninsured,variable,4.45
+2026-01-10T19:19:48.081764,CIBC,5,insured,variable,4.45
+2026-01-10T19:19:47.744808,Canwise,2,insured,fixed,4.49
+2026-01-10T19:19:47.744819,Canwise,3,insured,fixed,4.14
+2026-01-10T19:19:47.744822,Canwise,5,insured,fixed,4.24
+2026-01-10T19:19:59.974220,Dominion Lending,1,insured,fixed,4.99
+2026-01-10T19:19:59.974227,Dominion Lending,2,insured,fixed,4.44
+2026-01-10T19:19:59.974231,Dominion Lending,3,insured,fixed,3.94
+2026-01-10T19:19:59.974234,Dominion Lending,4,insured,fixed,4.19
+2026-01-10T19:19:59.974238,Dominion Lending,5,insured,fixed,4.19
+2026-01-10T19:19:59.974243,Dominion Lending,5,insured,variable,3.9
+2026-01-10T19:20:04.343663,Duca,5,insured,fixed,3.89
+2026-01-10T19:20:07.916947,Equitable Bank,1,insured,fixed,6.2
+2026-01-10T19:20:07.916953,Equitable Bank,2,insured,fixed,5.3
+2026-01-10T19:20:07.916957,Equitable Bank,3,insured,fixed,4.6
+2026-01-10T19:20:07.916960,Equitable Bank,4,insured,fixed,4.6
+2026-01-10T19:20:07.916962,Equitable Bank,5,insured,fixed,4.2
+2026-01-10T19:20:07.916965,Equitable Bank,5,insured,variable,3.75
+2026-01-10T19:20:10.332846,First National Financial,1,insured,fixed,4.99
+2026-01-10T19:20:10.332864,First National Financial,1,uninsured,fixed,4.99
+2026-01-10T19:20:10.332852,First National Financial,2,insured,fixed,4.54
+2026-01-10T19:20:10.332866,First National Financial,2,uninsured,fixed,4.54
+2026-01-10T19:20:10.332855,First National Financial,3,insured,fixed,4.54
+2026-01-10T19:20:10.332869,First National Financial,3,uninsured,fixed,4.54
+2026-01-10T19:20:10.332858,First National Financial,4,insured,fixed,4.54
+2026-01-10T19:20:10.332871,First National Financial,4,uninsured,fixed,4.54
+2026-01-10T19:20:10.332860,First National Financial,5,insured,fixed,4.19
+2026-01-10T19:20:10.332873,First National Financial,5,uninsured,fixed,4.69
+2026-01-10T19:20:10.332878,First National Financial,5,insured,variable,3.7500000000000004
+2026-01-10T19:20:10.332881,First National Financial,5,uninsured,variable,4.140000000000001
+2026-01-10T19:20:26.518071,MCAP,1,insured,fixed,7.44
+2026-01-10T19:20:26.518068,MCAP,2,insured,fixed,7.14
+2026-01-10T19:20:26.518065,MCAP,3,insured,fixed,5.34
+2026-01-10T19:20:26.518062,MCAP,4,insured,fixed,5.14
+2026-01-10T19:20:26.518055,MCAP,5,insured,fixed,5.09
+2026-01-10T19:20:45.152070,National Bank,5,uninsured,fixed,4.54
+2026-01-10T19:20:45.152079,National Bank,5,uninsured,variable,4.45
+2026-01-10T19:21:07.060511,Peoples Trust,1,insured,fixed,4.74
+2026-01-10T19:21:07.060520,Peoples Trust,2,insured,fixed,4.29
+2026-01-10T19:21:07.060525,Peoples Trust,3,insured,fixed,4.39
+2026-01-10T19:21:07.060530,Peoples Trust,4,insured,fixed,4.29
