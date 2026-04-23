@@ -1,41 +1,40 @@
 Timestamp,Provider,Term (Years),Insurability,Type,Rate
-2026-04-23T11:14:13.172159,CIBC,5,uninsured,fixed,6.49
-2026-04-23T11:14:13.172169,CIBC,5,insured,fixed,6.49
-2026-04-23T11:14:13.172173,CIBC,5,uninsured,variable,4.45
-2026-04-23T11:14:13.172177,CIBC,5,insured,variable,4.45
-2026-04-23T11:14:12.807749,Canwise,2,insured,fixed,4.49
-2026-04-23T11:14:12.807761,Canwise,3,insured,fixed,4.39
-2026-04-23T11:14:12.807764,Canwise,5,insured,fixed,4.29
-2026-04-23T11:14:24.801560,Dominion Lending,1,insured,fixed,4.59
-2026-04-23T11:14:24.801567,Dominion Lending,2,insured,fixed,4.39
-2026-04-23T11:14:24.801571,Dominion Lending,3,insured,fixed,4.34
-2026-04-23T11:14:24.801574,Dominion Lending,4,insured,fixed,4.39
-2026-04-23T11:14:24.801577,Dominion Lending,5,insured,fixed,4.39
-2026-04-23T11:14:24.801582,Dominion Lending,5,insured,variable,3.7
-2026-04-23T11:14:29.374957,Duca,5,insured,fixed,4.39
-2026-04-23T11:14:33.194945,Equitable Bank,1,insured,fixed,6.2
-2026-04-23T11:14:33.194952,Equitable Bank,2,insured,fixed,5.3
-2026-04-23T11:14:33.194955,Equitable Bank,3,insured,fixed,4.6
-2026-04-23T11:14:33.194957,Equitable Bank,4,insured,fixed,4.6
-2026-04-23T11:14:33.194959,Equitable Bank,5,insured,fixed,4.3
-2026-04-23T11:14:33.194963,Equitable Bank,5,insured,variable,3.6500000000000004
-2026-04-23T11:14:35.134858,First National Financial,1,insured,fixed,5.14
-2026-04-23T11:14:35.134877,First National Financial,1,uninsured,fixed,5.14
-2026-04-23T11:14:35.134865,First National Financial,2,insured,fixed,4.74
-2026-04-23T11:14:35.134879,First National Financial,2,uninsured,fixed,4.74
-2026-04-23T11:14:35.134868,First National Financial,3,insured,fixed,4.84
-2026-04-23T11:14:35.134882,First National Financial,3,uninsured,fixed,4.84
-2026-04-23T11:14:35.134870,First National Financial,4,insured,fixed,4.79
-2026-04-23T11:14:35.134884,First National Financial,4,uninsured,fixed,4.79
-2026-04-23T11:14:35.134873,First National Financial,5,insured,fixed,4.390000000000001
-2026-04-23T11:14:35.134886,First National Financial,5,uninsured,fixed,4.84
-2026-04-23T11:14:35.134891,First National Financial,5,insured,variable,3.6500000000000004
-2026-04-23T11:14:35.134895,First National Financial,5,uninsured,variable,4.340000000000001
-2026-04-23T11:14:50.473033,MCAP,1,insured,fixed,7.44
-2026-04-23T11:14:50.473029,MCAP,2,insured,fixed,7.14
-2026-04-23T11:14:50.473026,MCAP,3,insured,fixed,5.34
-2026-04-23T11:14:50.473022,MCAP,4,insured,fixed,5.14
-2026-04-23T11:14:50.473015,MCAP,5,insured,fixed,5.09
-2026-04-23T11:15:08.862790,National Bank,5,uninsured,fixed,4.64
-2026-04-23T11:15:08.862802,National Bank,5,uninsured,variable,4.45
-2026-04-23T11:16:31.941512,True North Mortgage,5,insured,variable,3.49
+2026-04-23T15:16:40.534907,CIBC,5,uninsured,fixed,6.49
+2026-04-23T15:16:40.534915,CIBC,5,insured,fixed,6.49
+2026-04-23T15:16:40.534919,CIBC,5,uninsured,variable,4.45
+2026-04-23T15:16:40.534921,CIBC,5,insured,variable,4.45
+2026-04-23T15:16:40.187090,Canwise,2,insured,fixed,4.49
+2026-04-23T15:16:40.187100,Canwise,3,insured,fixed,4.39
+2026-04-23T15:16:40.187103,Canwise,5,insured,fixed,4.29
+2026-04-23T15:16:53.871510,Dominion Lending,1,insured,fixed,4.59
+2026-04-23T15:16:53.871521,Dominion Lending,2,insured,fixed,4.39
+2026-04-23T15:16:53.871527,Dominion Lending,3,insured,fixed,4.34
+2026-04-23T15:16:53.871532,Dominion Lending,4,insured,fixed,4.39
+2026-04-23T15:16:53.871537,Dominion Lending,5,insured,fixed,4.39
+2026-04-23T15:16:53.871545,Dominion Lending,5,insured,variable,3.7
+2026-04-23T15:17:05.055176,Equitable Bank,1,insured,fixed,6.2
+2026-04-23T15:17:05.055182,Equitable Bank,2,insured,fixed,5.3
+2026-04-23T15:17:05.055184,Equitable Bank,3,insured,fixed,4.6
+2026-04-23T15:17:05.055186,Equitable Bank,4,insured,fixed,4.6
+2026-04-23T15:17:05.055189,Equitable Bank,5,insured,fixed,4.3
+2026-04-23T15:17:05.055192,Equitable Bank,5,insured,variable,3.6500000000000004
+2026-04-23T15:17:08.298379,First National Financial,1,insured,fixed,5.14
+2026-04-23T15:17:08.298405,First National Financial,1,uninsured,fixed,5.14
+2026-04-23T15:17:08.298387,First National Financial,2,insured,fixed,4.74
+2026-04-23T15:17:08.298409,First National Financial,2,uninsured,fixed,4.74
+2026-04-23T15:17:08.298391,First National Financial,3,insured,fixed,4.84
+2026-04-23T15:17:08.298413,First National Financial,3,uninsured,fixed,4.84
+2026-04-23T15:17:08.298395,First National Financial,4,insured,fixed,4.79
+2026-04-23T15:17:08.298416,First National Financial,4,uninsured,fixed,4.79
+2026-04-23T15:17:08.298399,First National Financial,5,insured,fixed,4.390000000000001
+2026-04-23T15:17:08.298420,First National Financial,5,uninsured,fixed,4.84
+2026-04-23T15:17:08.298427,First National Financial,5,insured,variable,3.6500000000000004
+2026-04-23T15:17:08.298432,First National Financial,5,uninsured,variable,4.340000000000001
+2026-04-23T15:17:26.891682,MCAP,1,insured,fixed,7.44
+2026-04-23T15:17:26.891679,MCAP,2,insured,fixed,7.14
+2026-04-23T15:17:26.891676,MCAP,3,insured,fixed,5.34
+2026-04-23T15:17:26.891674,MCAP,4,insured,fixed,5.14
+2026-04-23T15:17:26.891667,MCAP,5,insured,fixed,5.09
+2026-04-23T15:17:48.233805,National Bank,5,uninsured,fixed,4.64
+2026-04-23T15:17:48.233818,National Bank,5,uninsured,variable,4.45
+2026-04-23T15:19:27.614684,True North Mortgage,5,insured,variable,3.49
